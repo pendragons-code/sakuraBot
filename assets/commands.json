@@ -1,0 +1,25 @@
+{
+	"rate": {
+		"1To3": {
+			"embedDescriptionPart1": "I don't really like",
+			"embedDescriptionPart2": "is not my favorite..",
+			"thumbnail": "https://cdn.discordapp.com/emojis/583096669718183946.png?v=1"
+		},
+		"4To6": {
+			"embedDescriptionPart1": "I like",
+			"embedDescriptionPart2": "is pretty cool!",
+			"thumbnail": "https://cdn.discordapp.com/emojis/583105170292998145.png?v=1"
+		},
+		"8to10": {
+			"embedDescriptionPart1": "I absolutely love",
+			"embedDescriptionPart2": "I would surely die for",
+			"thumbnail": "https://cdn.discordapp.com/emojis/583407936156598295.png?v=1"
+		}
+	},
+	"death": {
+		"thumbnail": "https://images-ext-2.discordapp.net/external/-dC736tppbhHHaI-1A0_7yObAUB8Yt9LMhI_2YBLpfc/%3Fv%3D1/https/cdn.discordapp.com/emojis/574011468102762506.png?width=75&height=75"
+	},
+	"love": {
+		"thumbnail": "https://cdn.discordapp.com/emojis/574011437572161556.png?v=1"
+	}
+}

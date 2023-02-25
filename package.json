@@ -1,0 +1,28 @@
+{
+  "name": "sakurabot",
+  "version": "1.0.0",
+  "description": "Just ignore this repo.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pendragons-code/sakuraBot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pendragons-code/sakuraBot/issues"
+  },
+  "homepage": "https://github.com/pendragons-code/sakuraBot#readme",
+  "dependencies": {
+    "better-sqlite3": "^8.1.0",
+    "discord.js": "^14.7.1",
+    "dotenv": "^16.0.3",
+    "ejs": "^3.1.8",
+    "hermitpurple": "^0.2.0",
+    "path": "^0.12.7",
+    "quick.db": "^9.0.8"
+  }
+}
